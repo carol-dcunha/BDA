@@ -1,0 +1,8 @@
+Browse files on a server or network share
+You can connect to a server or network share to browse and view files on that server, exactly as if they were on your own computer. This is a convenient way to download or upload files on the internet, or to share files with other people on your local network.
+To browse files over the network, open the Files application from the Dash, and click Browse Network in the sidebar. The file manager will find any computers on your local area network that advertise their ability to serve files. If you want to connect to a server on the internet, or if you do not see the computer you're looking for, you can manually connect to a server by typing in its internet/network address.
+Connect to a file server
+In the file manager, click Files in the menu bar and pick Connect to Server from the app menu.
+Enter the address of the server, in the form of a URL. Details on supported URLs are listed below.
+If you have connected to the server before, you can click on it in the Recent Servers list.
+Click Connect. A new window will open showing you the files on the server. You can browse the files just as you would for those on your own computer. The server will also be added to the sidebar so you can access it quickly in the future
